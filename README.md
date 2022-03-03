@@ -1,7 +1,7 @@
 ### Fala galera!, me chamo João Victor, mais conhecido como Ambrozi! :D 👋
 
 - 🔭 Desenvolvedor Frontend;
-- 🌱 Atualmente estou estudando ReactJS, JS vanilla e Gulp;
+- 🌱 Atualmente estou estudando ReactJS, JS vanilla;
 - 🤔 Você pode estar me ajudando com ReactJS e acredito que podemos trocar boas informações;
 - 📚 Autodidata;
 - ⚡ Viciado em praticar esportes, graduado faixa marrom de jiujitsu;
