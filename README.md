@@ -1,7 +1,7 @@
 ### Fala galera!, me chamo João Victor, mais conhecido como Ambrozi! :D 👋
 
 - 🔭 Desenvolvedor Frontend;
-- 🌱 Atualmente estou cursando Sistemas para Internet (2º semestre) e estudando Angular e Typescript;
+- 🌱 Atualmente estou cursando Sistemas para Internet (3º semestre) e estudando Angular e Typescript;
 - 🤔 Você pode estar me ajudando com Typescript e Angular, acredito que podemos trocar boas informações;
 - 📚 Autodidata;
 - ⚡ Viciado em praticar esportes, graduado faixa marrom de jiujitsu;
