@@ -1,4 +1,4 @@
-### Fala galera!, me chamo João Victor, mais conhecido como Ambrozi! :D 👋
+### Olá, eu sou João Victor! 👋
 
 - 🔭 Desenvolvedor Frontend;
 - 🌱 Atualmente estou cursando Sistemas para Internet (3º semestre) e estudando React e TS e JS;
