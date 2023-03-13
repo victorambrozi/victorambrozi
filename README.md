@@ -1,11 +1,10 @@
 ### Fala galera!, me chamo João Victor, mais conhecido como Ambrozi! :D 👋
 
 - 🔭 Desenvolvedor Frontend;
-- 🌱 Atualmente estou cursando Sistemas para Internet (3º semestre) e estudando Angular e Typescript;
-- 🤔 Você pode estar me ajudando com Typescript e Angular, acredito que podemos trocar boas informações;
+- 🌱 Atualmente estou cursando Sistemas para Internet (3º semestre) e estudando React e TS e JS;
+- 🤔 Podemos trocar boas ideias com JS
 - 📚 Autodidata;
-- ⚡ Viciado em praticar esportes, graduado faixa marrom de jiujitsu;
-- 😄 Pronouns: Ele/Dele.
+- 🥋 Amante das artes marciais
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorambrozi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
