@@ -2,7 +2,7 @@
 
 I'm João Victor!
 
-- 🔥 Frontend Developer at [@buzzmonitor](https://github.com/buzzmonitor) 
+- 🔥 Software Developer at [@buzzmonitor](https://github.com/buzzmonitor) 
 
 ## Skills
 - :red_circle: TypeScript, JavaScript, Ruby
