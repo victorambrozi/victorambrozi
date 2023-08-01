@@ -5,8 +5,8 @@ I'm João Victor!
 - 🔥 Software Developer at [@buzzmonitor](https://github.com/buzzmonitor) 
 
 ## Skills
-- :red_circle: TypeScript, JavaScript, Ruby
-- :large_blue_circle: React, Rails, Next.js
+- :red_circle: JavaScript, Ruby
+- :large_blue_circle: React, Rails, AngularJS
 - :white_circle: SASS, CSS, Styled Components
 
 ## Contact
