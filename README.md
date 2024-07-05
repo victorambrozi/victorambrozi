@@ -1,6 +1,6 @@
-## Whats up? 👋
+## Olá!! 👋
 
-I'm João Victor!
+Sou João Victor!
 
 - 🔥 Software Developer at [@buzzmonitor](https://github.com/buzzmonitor) 
 
